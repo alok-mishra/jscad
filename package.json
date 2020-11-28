@@ -1,0 +1,12 @@
+{
+    "name": "jscad",
+    "version": "1.0.0",
+    "description": "jscad projects for 3d printing",
+    "main": "index.js",
+    "repository": "jscad.git",
+    "author": "Alok Mishra",
+    "license": "MIT",
+    "devDependencies": {
+        "@jscad/modeling": "^2.0.0-alpha.4"
+    }
+}
